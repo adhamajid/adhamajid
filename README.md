@@ -7,8 +7,11 @@ I am Majid, I wed developer and designer. I ❤ contributing to open source
 - Java
 - Python
 - C++
+- C
 - Swift
 - php
+- javascript
+- Bootstrap
 - database sql
 
 Here are some ideas to get you started:
