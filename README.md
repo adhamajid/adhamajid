@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Majid, I wed developer and designer. I ❤ contributing to open source 
+I am Majid, I wed mobile and frontend developer. I ❤ contributing to open source 
 ### Skills
 - HTML
 - Java
