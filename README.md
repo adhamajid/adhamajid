@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i can speak many languages in the world, example: Arabic, English, Indonesia, Japan, Java.
 
 
-### Github Stats
-![Majid's stats](https://github-readme-stats.vercel.app/api?username=adhamajid&count_private=true&show_icons=true&theme=radical)
 
 ### Top Languages
 
