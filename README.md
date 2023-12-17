@@ -19,9 +19,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to job
 - 💬 Ask me about collaboration to you in android project and website designer
 - ⚡ Fun fact: i can speak many languages in the world, example: Arabic, English, Indonesia, Japan, Java.
-
-
-
-### Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhamajid&show_icons=true&theme=radical)
