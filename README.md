@@ -1,21 +1,22 @@
 ### Hi there 👋
 
 
-I am Majid, I wed mobile . I ❤ programming language 
+I am Majid, I ❤ programming language 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### Skills
-- HTML
-- Java
-- Kotlin
-- Swift
-- database sql
+- New Programming Language
+- Communications Skill
+- Public Speaking
+- Agile & Waterfall Method
+- Linux, Windows, MacOS
+- SEO (Search Engine Opmitization)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on front-end developer and android developer 
+- 🔭 I’m currently working on Software Technical Support and Mobile developer 
 - 🌱 I’m currently learning Swift, Kotlin, Jetpack, Java
 - 👯 I’m looking to job
-- 💬 Ask me about collaboration to you in android project and website designer
+- 💬 Ask me about collaboration to you in Software Development
 - ⚡ Fun fact: i can speak many languages in the world, example: Arabic, English, Indonesia, Japan, Java.
