@@ -15,8 +15,8 @@ I am Majid, I ❤ programming language
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Software Technical Support and Mobile developer 
-- 🌱 I’m currently learning Swift, Kotlin, Jetpack, Java
+- 🔭 I’m currently working on Software Developer and Bussiness Development 
+- 🌱 I’m currently learning Python, Blockchain, AI, Smart Contract
 - 👯 I’m looking to job
 - 💬 Ask me about collaboration to you in Software Development
 - ⚡ Fun fact: i can speak many languages in the world, example: Arabic, English, Indonesia, Japan, Java.
